@@ -1,0 +1,20 @@
+html {
+    background-color: #8FBEEB;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+fieldset {
+    background-color: #508DCC;
+}
+
+h2 {
+    margin: auto;
+    text-align: center;
+    font-size: 3.5em;
+    font-family: fantasy;
+}
+
+#submit {
+    font-size: 0.7em;
+}
